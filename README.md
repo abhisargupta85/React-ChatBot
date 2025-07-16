@@ -3,21 +3,23 @@ This is a lightweight chatbot interface built using pure HTML, CSS, and JavaScri
 
 🧑‍🏫 Based on a tutorial from supersimple.dev – credits to the original author for the structure and logic.
 
-✨ Features
-Clean and responsive chatbot interface
+✨ Features:
 
-Scrollable conversation window
+  Clean and responsive chatbot interface
 
-Support for user and bot avatars
+  Scrollable conversation window
 
-Input field and send button for user messages
+  Support for user and bot avatars
 
-Simple and easy-to-understand code, great for learning
+  Input field and send button for user messages
 
-📁 Files Included
+  Simple and easy-to-understand code, great for learning
+  
 
-chatbot.html – Core UI and logic
+📁 Files Included:
 
-robot.png, user.png – Chat avatars
+  chatbot.html – Core UI and logic
+
+  robot.png, user.png – Chat avatars
 
 Uses scripts from supersimpledev CDN for React and chatbot behavior
